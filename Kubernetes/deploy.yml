@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: vatcalc
-        image: <dockerhub_id>/vatcal:latest
+        image: rossdev1985/vatcal:latest
         imagePullPolicy: Always
         resources:
           requests:
